@@ -1,7 +1,7 @@
 <div align="center">
     <img src="./header.svg" align="center" style="width: 100%" />
 </div>
-<br>
+<br clear ="both" >
 
 <div align="center">
     <a href="https://github.com/shahadat3669" target="_blank">
@@ -26,7 +26,7 @@
         <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
     </a>  
 </div>
-<br/>
+<br clear ="both" >
 
 - 🔭 I’m currently a student in [microverse](https://www.microverse.org).
 - 🌱 I’m currently learning JavaScript
@@ -114,7 +114,7 @@
         <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" height="50" />
     </a>
 </div>
-<br>
+<br clear ="both" >
 
 ## Github Stats
 
@@ -127,12 +127,12 @@
 
 <div align="center">
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadat3669&theme=light">](https://metrics.lecoq.io/shahadat3669#gh-dark-mode-only)
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadat3669&theme=dark">](https://metrics.lecoq.io/shahadat3669#gh-light-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadat3669&theme=dark">](https://metrics.lecoq.io/shahadat3669#gh-dark-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadat3669&theme=light">](https://metrics.lecoq.io/shahadat3669#gh-light-mode-only)
 
 </div>
 
-<br >
+<br clear ="both" >
 
 ## Coding time in the last month
 
