@@ -30,8 +30,8 @@
 
 - 🔭 I’m currently a student in [microverse](https://www.microverse.org).
 - 🌱 I’m currently learning JavaScript
-- ❓ Ask me about anything related to Full-stack developer and related technologies
-- 📫 Reach me through [email](shahadat3669@gmail.com).
+- ❓ Ask me about anything related to Full-stack development.
+- 📫 Reach me through [email](shahadat3669@gmail.com). 
 
 ## My Skill Set
 
