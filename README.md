@@ -19,7 +19,7 @@
 </div>
 <br clear ="both" >
 
-- 🔭 I’m currently a student in [microverse](https://www.microverse.org).
+
 - 🌱 I’m currently learning NextJs and TypeScript.
 - ❓  Ask me about anything related to Full-stack development.
 - 🔍 Looking for new opportunities. 👋
