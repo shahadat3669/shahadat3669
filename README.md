@@ -10,148 +10,87 @@
     <a href="https://twitter.com/shahadat3669" target="_blank">
         <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
     </a>
-    <a href="https://dev.to/shahadat3669" target="_blank">
-        <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+    <a href="www.dev-shahadat.com" target="_blank">
+        <img src=https://img.shields.io/badge/dev--shahadat.com-ea4343?&style=for-the-badge alt="Shahadat Hossain website" style="margin-bottom: 5px;" />
     </a>
-    <a href="https://www.linkedin.com/in/shahadat-cseng" target="_blank">
+    <!-- <a href="https://dev.to/shahadat3669" target="_blank">
+        <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+    </a> -->
+    <a href="https://www.linkedin.com/in/dev-shahadat" target="_blank">
         <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
     </a>
 </div>
 <br clear ="both" >
 
 
-- 🌱 I’m currently learning NextJs and TypeScript.
-- ❓  Ask me about anything related to Full-stack development.
-- 🔍 Looking for new opportunities. 👋
-- 📫 Reach me through [email](shahadat3669@gmail.com). 
+## Hi there👋
+- 🌱 Currently learning Hubspot CMS to further enhance my frontend skills and build seamless full-stack applications.
+- 🌐 Explore my work on my [personal website](https://www.dev-shahadat.com).
+- 💼 Currently working as a Junior Software Engineer Level 1 with experience across Ruby on Rails, Node.js, React, TypeScript, and PostgreSQL.
+- 🚀 Full-Stack Developer specializing in scalable backend solutions and responsive, dynamic frontend.
+- 🎓 B.Sc. in Computer Science & Engineering, with certifications in Google IT Support, Machine Learning Foundations, and web/mobile development.
+- 💬 Ask me about backend systems architecture, API development, and database optimization.
+- 📫 Reach me at [email](contact@dev-shahadat.com).
+
+## 🏆 Recent Highlights:
+- Developed a Restaurant Management & EPOS System with a complete Stripe integration for seamless payment processing.
+- Hands-on experience with AWS and CI/CD pipelines to support deployment and scaling of backend applications.
+- Over 1k views on [LeetCode solutions](https://leetcode.com/u/dev-shahadat), demonstrating a strong focus on problem-solving and code optimization.
 
 ## My Skill Set
-
-### Frontend
-
-<div align="left"> 
-    <a href="https://www.w3schools.com/html/" target="_blank">
-        <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html5" height="50" />
-    </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="50" />
-    </a> 
-    <a href="https://www.w3schools.com/js/" target="_blank">
-        <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />
-    </a>
-    <a href="https://getbootstrap.com" target="_blank">
-        <img style="margin: 32px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-    </a>
-    <a href="https://sass-lang.com" target="_blank">
-        <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SCSS" height="50" />
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank">
-        <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind Css" height="50" />
-    </a>
-    <a href="https://webpack.js.org/" target="_blank">
-        <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" height="50" />
-    </a>
-    <a href="https://react.dev" target="_blank">
-        <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJs" height="50" />
-    </a> 
-    <a href="https://redux.js.org" target="_blank">
-        <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" height="50" />
-    </a>
-    <a href="https://www.typescriptlang.org" target="_blank">
-        <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" />
-    </a> 
-    <a href="https://nextjs.org" target="_blank">
-        <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJs" height="50" />
-    </a>
-</div>
 
 ### Languages
 
 <div align="left"> 
-    <a href="https://www.w3schools.com/c/c_intro.php" target="_blank">
-        <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="html5" height="50" />
-    </a> 
-    <a href="https://cplusplus.com/" target="_blank">
-        <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="50" />
-    </a> 
-    <a href="https://www.java.com/en/" target="_blank">
-        <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" height="50" />
-    </a>
-    <a href="https://www.python.org/" target="_blank">
-        <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" height="50" />
-    </a>
-    <a href="https://www.ruby-lang.org" target="_blank">
-        <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" height="50" />
-    </a>
+    <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby" height="50" />
+    <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" height="50" />
+    <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="NodeJs" height="50" />
+</div>
+
+### Frontend
+
+<div align="left"> 
+    <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html5" height="50" />
+    <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="50" />
+    <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />
+    <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" height="50" />
+    <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJs" height="50" />
+    <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" />
 </div>
 
 ### Backend
 
 <div align="left"> 
-    <a href="https://rubyonrails.org" target="_blank">
-        <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" alt="Rails" height="50" />
-    </a> 
-    <a href="https://nodejs.org" target="_blank">
-        <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="NodeJs" height="50" />
-    </a> 
-    <a href="https://www.postgresql.org/" target="_blank">
-        <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="Postgresql" height="50" />
-    </a>
-    <a href="https://www.mongodb.com" target="_blank">
-        <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" height="50" />
-    </a>
-    <a href="https://www.mysql.com" target="_blank">
-        <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySql" height="50" />
-    </a>
-</div>
-
-### Design tool
-
-<div align="left"> 
-    <a href="https://www.figma.com/" target="_blank">
-        <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="html5" height="50"  />
-    </a> 
-    <a href="https://www.adobe.com/creativecloud.html" target="_blank">
-        <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="cplusplus" height="50" />
-    </a> 
-    <a href="https://www.adobe.com/creativecloud.html" target="_blank">
-        <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Java" height="50" />
-    </a>
-    <a href="https://www.adobe.com/creativecloud.html" target="_blank">
-        <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="Adobe XD" height="50" />
-    </a>
+    <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" alt="Rails" height="50" />
+    <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" alt="Django" height="50" />
+    <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="Postgresql" height="50" />
+    <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" height="50" />
+    <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySql" height="50" />
 </div>
 
 ### Development tools
 
 <div align="left"> 
-    <a href="https://code.visualstudio.com/" target="_blank">
-        <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" height="50" />
-    </a> 
-    <a href="https://git-scm.com/" target="_blank">
-        <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="Git" height="50" />
-    </a>
-    <a href="https://github.com/" target="_blank">
-        <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="Github" height="50" />
-    </a>
-    <a href="https://www.jetbrains.com/" target="_blank">
-        <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="Jetbrains" height="50" />
-    </a>
-    <a href="https://www.npmjs.com/" target="_blank">
-        <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" height="50" />
-    </a>
-    <a href="https://eslint.org" target="_blank">
-        <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" alt="ESLint" height="50" />
-    </a>
-    <a href="https://jestjs.io" target="_blank">
-        <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" height="50" />
-    </a>
-    <a href="https://rspec.info" target="_blank">
-        <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" alt="RSpec" height="50" />
-    </a>
+    <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="Git" height="50" />
+    <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="Amazon Web Services" height="50" />
+    <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" alt="Docker" height="50" />
+    <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="Github Action" height="50" />
+    <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Jenkins" height="50" />
+    <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" height="50" />
+    <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" alt="RSpec" height="50" />
+    <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" height="50" />
 </div>
-<br clear ="both" >
 
+
+
+### Design tool
+
+<div align="left"> 
+    <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="50"  />
+    <img style="margin: 32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="Adobe XD" height="50" />
+</div>
+
+<br clear ="both" >
 ## Github Stats
 
 <div align="center">
