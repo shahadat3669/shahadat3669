@@ -10,10 +10,10 @@
     <a href="https://twitter.com/shahadat3669" target="_blank">
         <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
     </a>
-    <a href="www.dev-shahadat.com" target="_blank">
+    <a href="https://www.dev-shahadat.com/" target="_blank">
         <img src=https://img.shields.io/badge/dev--shahadat.com-ea4343?&style=for-the-badge alt="Shahadat Hossain website" style="margin-bottom: 5px;" />
     </a>
-    <!-- <a href="https://dev.to/shahadat3669" target="_blank">
+    <!-- <a href="https://www.dev-shahadat.com/" target="_blank">
         <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
     </a> -->
     <a href="https://www.linkedin.com/in/dev-shahadat" target="_blank">
@@ -24,9 +24,9 @@
 
 
 ## Hi there👋
-- 🌱 Currently learning Hubspot CMS to further enhance my frontend skills and build seamless full-stack applications.
+- 🌱 Currently learning AWS and building seamless full-stack applications.
 - 🌐 Explore my work on my [personal website](https://www.dev-shahadat.com).
-- 💼 Currently working as a Junior Software Engineer Level 1 with experience across Ruby on Rails, Node.js, React, TypeScript, and PostgreSQL.
+- 💼 Currently working as a Software Engineer with experience across Ruby on Rails, Node.js, React, TypeScript, and PostgreSQL.
 - 🚀 Full-Stack Developer specializing in scalable backend solutions and responsive, dynamic frontend.
 - 🎓 B.Sc. in Computer Science & Engineering, with certifications in Google IT Support, Machine Learning Foundations, and web/mobile development.
 - 💬 Ask me about backend systems architecture, API development, and database optimization.
@@ -35,7 +35,7 @@
 ## 🏆 Recent Highlights:
 - Developed a Restaurant Management & EPOS System with a complete Stripe integration for seamless payment processing.
 - Hands-on experience with AWS and CI/CD pipelines to support deployment and scaling of backend applications.
-- Over 1k views on [LeetCode solutions](https://leetcode.com/u/dev-shahadat), demonstrating a strong focus on problem-solving and code optimization.
+- Over 5k views on [LeetCode solutions](https://leetcode.com/u/dev-shahadat), demonstrating a strong focus on problem-solving and code optimization.
 
 ## My Skill Set
 
@@ -118,3 +118,4 @@ JavaScript   33 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ```
 
 <!--END_SECTION:waka-->
+
